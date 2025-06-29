@@ -1,4 +1,4 @@
-:root {
+/* :root {
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -39,4 +39,18 @@ a {
   html {
     color-scheme: dark;
   }
+} */
+
+/* styles/globals.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #C7C4C4;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+a {
+  color: #1a0dab;
+  text-decoration: underline;
 }
