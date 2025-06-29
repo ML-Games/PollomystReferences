@@ -1,3 +1,8 @@
+# PollomystReferences
+This website presents a formatted, numbered list of references used during the research of **Pollomyst+**. This website will be used as part of a submission to the Global Health Prize, itself a contest of the Science in Medicine School Teams Prize 2025.
+
+------------------------------------
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
