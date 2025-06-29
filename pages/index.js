@@ -26,8 +26,8 @@ export default function Home() {
         <h1 style={{ fontSize: '2rem', marginBottom: '2rem' }}>References</h1>
         <ol>
           <li style={{ marginBottom: '1.5rem' }}>
-            Albano, L. et al. (2024) 'The Chemistry of Sporopollenin Ektexine and Endexine Layers Isolated
-            from Sunflower Pollen through an Ionic Liquid-Mediated Process,' <em>ACS Omega</em>, 10(1),
+            Albano, L. et al. (2024) &apos;The Chemistry of Sporopollenin Ektexine and Endexine Layers Isolated
+            from Sunflower Pollen through an Ionic Liquid-Mediated Process,&apos; <em>ACS Omega</em>, 10(1),
             pp. 411–421.{' '}
             <a
               href="https://doi.org/10.1021/acsomega.4c06524"
@@ -52,8 +52,8 @@ export default function Home() {
           </li>
 
           <li style={{ marginBottom: '1.5rem' }}>
-            Grienenberger, E. and Quilichini, T.D. (2021) 'The Toughest Material in the Plant Kingdom: An
-            Update on Sporopollenin,' <em>Frontiers in Plant Science</em>, 12.{' '}
+            Grienenberger, E. and Quilichini, T.D. (2021) &apos;The Toughest Material in the Plant Kingdom: An
+            Update on Sporopollenin,&apos; <em>Frontiers in Plant Science</em>, 12.{' '}
             <a
               href="https://doi.org/10.3389/fpls.2021.703864"
               target="_blank"
@@ -65,8 +65,8 @@ export default function Home() {
           </li>
 
           <li style={{ marginBottom: '1.5rem' }}>
-            Kim, S.-H., Park, H.-S. and Jang, J.-Y. (2011) 'Impact of meteorological variation on hospital
-            visits of patients with tree pollen allergy,' <em>BMC Public Health</em>, 11(1).{' '}
+            Kim, S.-H., Park, H.-S. and Jang, J.-Y. (2011) &apos;Impact of meteorological variation on hospital
+            visits of patients with tree pollen allergy,&apos; <em>BMC Public Health</em>, 11(1).{' '}
             <a
               href="https://doi.org/10.1186/1471-2458-11-890"
               target="_blank"
@@ -78,7 +78,7 @@ export default function Home() {
           </li>
 
           <li style={{ marginBottom: '1.5rem' }}>
-            Levison, J. (2025) 'Hay fever set to be more severe this year - here's why.'{' '}
+            Levison, J. (2025) &apos;Hay fever set to be more severe this year - here&apos;s why.&apos;{' '}
             <a
               href="https://news.sky.com/story/why-hay-fever-is-worse-this-year-and-what-you-can-do-about-it-13326241"
               target="_blank"
@@ -90,7 +90,7 @@ export default function Home() {
           </li>
 
           <li style={{ marginBottom: '1.5rem' }}>
-            Ruggeri, A. (2025) 'Climate change is supercharging pollen and making allergies worse.'{' '}
+            Ruggeri, A. (2025) &apos;Climate change is supercharging pollen and making allergies worse.&apos;{' '}
             <a
               href="https://www.bbc.co.uk/future/article/20250410-how-climate-driven-thunderstorms-supercharge-pollen-allergies"
               target="_blank"
@@ -102,7 +102,7 @@ export default function Home() {
           </li>
 
           <li style={{ marginBottom: '1.5rem' }}>
-            Singh, A.B. and Kumar, P. (2022) 'Climate change and allergic diseases: An overview,'{' '}
+            Singh, A.B. and Kumar, P. (2022) &apos;Climate change and allergic diseases: An overview,&apos;{' '}
             <em>Frontiers in Allergy</em>, 3.{' '}
             <a
               href="https://doi.org/10.3389/falgy.2022.964987"
@@ -115,8 +115,8 @@ export default function Home() {
           </li>
 
           <li style={{ marginBottom: '1.5rem' }}>
-            World Health Organisation (2024) 'Report of the WHO South-East Asia Regional meeting on
-            nutrition and climate change,' <em>WHO Regional Office for South-East Asia</em>.{' '}
+            World Health Organisation (2024) &apos;Report of the WHO South-East Asia Regional meeting on
+            nutrition and climate change,&apos; <em>WHO Regional Office for South-East Asia</em>.{' '}
             <a
               href="https://iris.who.int/bitstream/handle/10665/380407/SEA-NCD-112-eng.pdf"
               target="_blank"
@@ -128,8 +128,8 @@ export default function Home() {
           </li>
 
           <li style={{ marginBottom: '1.5rem' }}>
-            Zhang, Y. and Steiner, A.L. (2022) 'Projected climate-driven changes in pollen emission season
-            length and magnitude over the continental United States,' <em>Nature Communications</em>,
+            Zhang, Y. and Steiner, A.L. (2022) &apos;Projected climate-driven changes in pollen emission season
+            length and magnitude over the continental United States,&apos; <em>Nature Communications</em>,
             13(1).{' '}
             <a
               href="https://doi.org/10.1038/s41467-022-28764-0"
@@ -142,8 +142,8 @@ export default function Home() {
           </li>
 
           <li style={{ marginBottom: '1.5rem' }}>
-            Zhou, Y. and Dobritsa, A.A. (2025) 'Forging the pollen fortress: Cell biological mechanisms of
-            exine formation,' <em>Current Opinion in Plant Biology</em>, 86, p. 102742.{' '}
+            Zhou, Y. and Dobritsa, A.A. (2025) &apos;Forging the pollen fortress: Cell biological mechanisms of
+            exine formation,&apos; <em>Current Opinion in Plant Biology</em>, 86, p. 102742.{' '}
             <a
               href="https://doi.org/10.1016/j.pbi.2025.102742"
               target="_blank"
@@ -155,8 +155,8 @@ export default function Home() {
           </li>
 
           <li style={{ marginBottom: '1.5rem' }}>
-            Ziska, L.H. et al. (2019) 'Temperature-related changes in airborne allergenic pollen abundance
-            and seasonality across the northern hemisphere: a retrospective data analysis,'{' '}
+            Ziska, L.H. et al. (2019) &apos;Temperature-related changes in airborne allergenic pollen abundance
+            and seasonality across the northern hemisphere: a retrospective data analysis,&apos;{' '}
             <em>The Lancet Planetary Health</em>, 3(3), pp. e124–e131.{' '}
             <a
               href="https://doi.org/10.1016/s2542-5196(19)30015-4"
