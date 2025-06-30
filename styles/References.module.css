@@ -52,6 +52,7 @@
 .logo {
   display: block;
   margin: 0 auto 2rem;
+  max-width: 350px;
   max-width: 200px;
   height: auto;
 }
