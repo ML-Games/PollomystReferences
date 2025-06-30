@@ -13,6 +13,11 @@ export default function Home() {
       </Head>
 
       <main className={styles.container}>
+        <img
+          src="/logo_pollomyst.jpeg"
+          alt="Pollomyst Logo"
+          className={styles.logo}
+        />
         <h1 className={styles.title}>References</h1>
         <ol className={styles.referenceList}>
           <li className={styles.referenceItem}>

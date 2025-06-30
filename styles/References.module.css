@@ -49,6 +49,13 @@
   color: #0066cc;
 }
 
+.logo {
+  display: block;
+  margin: 0 auto 2rem;
+  max-width: 200px;
+  height: auto;
+}
+
 /* Tablet styles */
 @media (max-width: 768px) {
   .container {
