@@ -78,6 +78,29 @@
   }
 }
 
+.subsection {
+  margin-top: 4rem;
+}
+
+.subsectionTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+.imageList {
+  list-style-type: disc;
+  padding-left: 2.5rem; 
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem; 
+}
+
+.imageList li {
+  line-height: 1.8;
+}
+
 /* Mobile styles */
 @media (max-width: 480px) {
   .container {
