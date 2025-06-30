@@ -171,6 +171,71 @@ export default function Home() {
             </a>
           </li>
         </ol>
+        <div className={styles.subsection}>
+          <h3 className={styles.subsectionTitle}>Images</h3>
+          <ul className={styles.imageList}>
+            <li>
+              <a
+                href="https://designbundles.net/design-school/how-to-draw-vines"
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.link}
+              >
+                https://designbundles.net/design-school/how-to-draw-vines
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://pikbest.com/png-images/qiantu-summer-flowers-yellow-drawing-cartoon-small-flowers-free-buckle_2648777.html"
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.link}
+              >
+                https://pikbest.com/.../2648777.html
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://pngtree.com/freepng/green-flowers-lily-illustration_4652619.html"
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.link}
+              >
+                https://pngtree.com/.../4652619.html
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.shutterstock.com/image-vector/floral-ivy-drawing-decorative-ornament-flat-2449819583"
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.link}
+              >
+                https://shutterstock.com/.../2449819583
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://stockcake.com/i/vial-with-liquid_153262_20709"
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.link}
+              >
+                https://stockcake.com/i/vial-with-liquid_153262_20709
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://x.com/AllergyUK1/status/1386643967027077123"
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.link}
+              >
+                https://x.com/AllergyUK1/status/1386643967027077123
+              </a>
+            </li>
+          </ul>
+        </div>
       </main>
     </>
   );
