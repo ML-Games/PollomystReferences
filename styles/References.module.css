@@ -4,11 +4,13 @@
   margin: 0 auto;
   padding: 3rem 2rem;
   font-family: 'Fira Sans', sans-serif;
-  background: #fff;
+  background: #fef8ce;
   color: #000;
   font-size: 1.125rem;
   line-height: 2rem;
   min-height: 100vh;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
 }
 
 /* Title styles */
